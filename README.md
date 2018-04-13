@@ -20,6 +20,12 @@ How will maintenance be paid for in the long run? Will you host it yourself or d
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-usx/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-usx/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-usx/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
